@@ -4,7 +4,7 @@
 **✅TailwindCss**
 **✅Shadcn/ui**
 **✅WebAssembly**
-**✅FFMEG**
+**✅React-Dropbox**
 
 👉 [Live Demo](https://modifio.vercel.app/) 👈
 
