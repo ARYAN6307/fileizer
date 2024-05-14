@@ -10,8 +10,8 @@
 
 👉 [Check out this YouTube video about the project](https://youtu.be/ypYw6Cm6cUk) 👈
 
-![HomePage](https://imagetolink.com/ib/kBHaDaD9CA)
+![HomePage](https://imgur.com/VidEGzZ)
 
-![Convert page](https://i.imgur.com/6HgYaut.png)
+![Convert page](https://imgur.com/0Phx7JH)
 
-![Convert options](https://imagetolink.com/ib/znZPagqoVb)
+![About Page](https://imgur.com/undefined)
