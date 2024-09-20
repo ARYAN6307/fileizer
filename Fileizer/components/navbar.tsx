@@ -22,11 +22,7 @@ export default function Navbar({ }): any {
                         About
                     </Button>
                 </Link>
-                <Link href="/privacy-policy">
-                    <Button variant="ghost" className="font-semibold text-md">
-                        Privacy Policy
-                    </Button>
-                </Link>
+              
             </div>
             <div className="items-center hidden gap-2 md:flex">
                 <ModeToggle />
